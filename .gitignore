@@ -1,0 +1,42 @@
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Notepad++ backup files
+*.bak
+
+# PHP files
+*.php
+
+# Jetbrains files
+<<<<<<< .merge_file_a06664
+.idea
+=======
+.idea
+
+# Photoshop files
+*.psd
+
+# Folders
+social-imagery
+>>>>>>> .merge_file_a06932
